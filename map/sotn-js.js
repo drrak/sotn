@@ -25,7 +25,7 @@ else if(x==20&&y==18){n=c+'R07 Form of Mist: Enables Mist Form ability. Only tra
 else if(x==47&&y==17){n=c+'R08 Soul of Bat: Enables Bat Form ability.';}
 else if(x==51&&y==14){n=c+'R09 Faerie Card: Summons "Faerie" Familiar.';}
 else if(x==58&&y==7){n=c+'R10 Fire of Bat: Allows the Bat Form to shoot fireballs using the attack button. Also allows the Bat Familiar to shoot fireballs if it is equipped.';}
-else if(x==38&&y==3){n=c+'R11 Ghost Card: Summons "Ghost" Familiar.';}
+else if(x==38&&y==3){n=c+'R11 Ghost Card: Summons "Ghost" Familiar.<br>10 HP Max Up';}
 else if(x==30&&y==5){n=c+'R12 Power of Mist: Allows Alucard to remain in Mist Form as long as he has MP.';}
 else if(x==14&&y==29){n=c+'R13 Skill of Wolf: Enables Wolf Charge spell; Allows the use of the Special button in water to swim (not available in Saturn version).';}
 else if(x==12&&y==23){n=c+'R14 Bat Card: Summons "Bat" Familiar.';}
@@ -40,13 +40,14 @@ else if(x==44&&y==29){n=c+'01 Gold Ring';}
 else if(x==40&&y==47){n=c+'02 Spike Breaker';}
 else if(x==7&&y==11){n=c+'03 Silver Ring';}
 else if(x==31&&y==27){n=c+'04 Holy Glases';}
-else if(x==32&&y==21){n=c+'05 Heart Max Up<br>05 Alucart Shield';}
-else if(x==33&&y==21){n=c+'06 Alucart Sword<br>07 Alucart Mail';}
+else if(x==32&&y==21){n=c+'05 Heart Max Up<br>05 Alucart Shield: Equip with Alucart Sword and Alucart Mail for Alucart status (LCK +30).';}
+else if(x==33&&y==21){n=c+'06 Alucart Sword: Equip with Alucart Shield and Alucart Mail for "Alucart" status (LCK +30).<br>07 Alucart Mail: Equip with Alucart Sword and Alucart Shield for "Alucart" status (LCK +30).';}
 else if(x==12&&y==31){n=c+'08 Leather Shield';}
 else if(x==48&&y==16){n=c+'09 Iron Shield (Shop)';}
 else if(x==13&&y==18){n=c+'10 Knight Shield';}
 else if(x==54&&y==9){n=c+'11 Shaman Shield';}
 else if(x==21&&y==33){n=c+'12 Herald Shield';}
+else if(x==12&&y==20){n=c+'13 Shield Rod<br>$1000';}
 else if(x==18&&y==35){n=c+'01 Heart Max Up';}
 else if(x==16&&y==34){n=c+'02 Heart Max Up';}
 else if(x==10&&y==30){n=c+'03 Heart Max Up';}
@@ -70,7 +71,6 @@ else if(x==30&&y==21){n=c+'06 HP Max Up';}
 else if(x==60&&y==19){n=c+'07 HP Max Up';}
 else if(x==49&&y==5){n=c+'08 HP Max Up';}
 else if(x==37&&y==2){n=c+'09 HP Max Up';}
-else if(x==38&&y==3){n=c+'10 HP Max Up';}
 else if(x==13&&y==9){n=c+'11 HP Max Up';}
 else if(x==36&&y==28){n=c+'12 HP Max Up';}
 else if(x==41&&y==38){n=c+'13 HP Max Up';}

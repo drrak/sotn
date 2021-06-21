@@ -81,7 +81,8 @@ height:58px;
 <a href="?0,48,16">09 (48,16) Iron Shield (Shop)</a><br>
 <a href="?0,13,18">10 (13,18) Knight Shield</a><br>
 <a href="?0,54,9">11 (54,09) Shaman Shield</a><br>
-<a href="?0,21,33">12 (21,33) Herald Shield</a>
+<a href="?0,21,33">12 (21,33) Herald Shield</a><br>
+<a href="?0,12,20">13 (12,20) Shield Rod</a>
 </p>
 <p>HEART MAX UP</p>
 <p>
@@ -185,9 +186,9 @@ height:58px;
 <script>
 var lv=Number(getUrlVars()[0]);
 document.getElementById('mapa').style.backgroundPosition='-'+(lv*897)+'px 0px';
-if(lv==0){var lvw=62;var lvh=49;var lvx=-1;var lvy=-1;document.title='SotN - Normal Map';document.getElementById('lv'+lv).style.display='block';}
-if(lv==1){var lvw=62;var lvh=49;var lvx=-1;var lvy=-1;document.title='SotN - Inverted Map';document.getElementById('lv'+lv).style.display='block';}
-if(lv>=2){var lvw=0;var lvh=0;var lvx=1;var lvy=1;document.title='SotN Compendium';document.getElementById('lv0').style.display='block';document.getElementById('lv1').style.display='block';}
+if(lv==0){var lvw=62;var lvh=49;var lvx=-1;var lvy=-1;document.title='Castlevania: SotN - Normal Map';document.getElementById('lv'+lv).style.display='block';}
+if(lv==1){var lvw=62;var lvh=49;var lvx=-1;var lvy=-1;document.title='Castlevania: SotN - Inverted Map';document.getElementById('lv'+lv).style.display='block';}
+if(lv>=2){var lvw=0;var lvh=0;var lvx=1;var lvy=1;document.title='Castlevania: SotN Compendium';document.getElementById('lv0').style.display='block';document.getElementById('lv1').style.display='block';}
 
 document.getElementById('txt').style.top=((lvh-lvy+1)*14)+5+'px';
 
