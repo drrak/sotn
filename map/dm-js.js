@@ -36,6 +36,42 @@ else if(x==7&&y==38){n=c+'R18 Merman Statue';}
 else if(x==28&&y==40){n=c+'R19 Demon Card';}
 else if(x==54&&y==37){n=c+'R20 Holy Symbol';}
 else if(x==19&&y==14){n=c+'R21 Sword Card';}
+else if(x==44&&y==29){n=c+'01 Gold Ring';}
+else if(x==40&&y==47){n=c+'02 Spike Breaker';}
+else if(x==7&&y==11){n=c+'03 Silver Ring';}
+else if(x==31&&y==27){n=c+'04 Holy Glases';}
+else if(x==32&&y==21){n=c+'05 Heart Max Up<br>05 Alucart Shield';}
+else if(x==33&&y==21){n=c+'03 Alucart Sword<br>04 Alucart Mail';}
+else if(x==18&&y==35){n=c+'01 Heart Max Up';}
+else if(x==16&&y==34){n=c+'02 Heart Max Up';}
+else if(x==10&&y==30){n=c+'03 Heart Max Up';}
+else if(x==32&&y==23){n=c+'04 Heart Max Up<br>05 HP Max Up';}
+else if(x==35&&y==23){n=c+'06 Heart Max Up';}
+else if(x==59&&y==11){n=c+'07 Heart Max Up';}
+else if(x==51&&y==5){n=c+'08 Heart Max Up';}
+else if(x==37&&y==3){n=c+'09 Heart Max Up';}
+else if(x==38&&y==2){n=c+'10 Heart Max Up';}
+else if(x==34&&y==4){n=c+'11 Heart Max Up';}
+else if(x==25&&y==20){n=c+'12 Heart Max Up';}
+else if(x==20&&y==15){n=c+'13 Heart Max Up';}
+else if(x==28&&y==33){n=c+'14 Heart Max Up';}
+else if(x==31&&y==47){n=c+'15 Heart Max Up<br>17 HP Max Up';}
+else if(x==25&&y==46){n=c+'16 Heart Max Up';}
+else if(x==2&&y==34){n=c+'01 HP Max Up';}
+else if(x==13&&y==37){n=c+'02 HP Max Up';}
+else if(x==19&&y==33){n=c+'03 HP Max Up';}
+else if(x==11&&y==32){n=c+'04 HP Max Up';}
+else if(x==30&&y==21){n=c+'06 HP Max Up';}
+else if(x==60&&y==19){n=c+'07 HP Max Up';}
+else if(x==49&&y==5){n=c+'08 HP Max Up';}
+else if(x==37&&y==2){n=c+'09 HP Max Up';}
+else if(x==38&&y==3){n=c+'10 HP Max Up';}
+else if(x==13&&y==9){n=c+'11 HP Max Up';}
+else if(x==36&&y==28){n=c+'12 HP Max Up';}
+else if(x==41&&y==38){n=c+'13 HP Max Up';}
+else if(x==29&&y==34){n=c+'14 HP Max Up';}
+else if(x==28&&y==33){n=c+'15 HP Max Up';}
+else if(x==24&&y==38){n=c+'16 HP Max Up';}
 else{n=li;}
 r.innerHTML=n;
 }
@@ -48,6 +84,36 @@ else if(x==38&&y==39){n=c+'R04 Heart of Vlad';}
 else if(x==32&&y==12){n=c+'R05 Eye of Vlad';}
 else if(x==45&&y==2){n=c+'R06 Gas Cloud';}
 else if(x==7&&y==11){n=c+'R07 Force of Echo';}
+else if(x==3&&y==41){n=c+'01 Dragon Helm';}
+else if(x==29&&y==34){n=c+'02 Alucard Mail';}
+else if(x==54&&y==37){n=c+'03 Twilight Cloak';}
+else if(x==54&&y==10){n=c+'04 Alucard Shield';}
+else if(x==33&&y==8){n=c+'05 Alucrad Sword';}
+else if(x==29&&y==46){n=c+'01 Heart Max Up<br>01 HP Max Up';}
+else if(x==28&&y==46){n=c+'02 Heart Max Up<br>02 HP Max Up';}
+else if(x==27&&y==46){n=c+'03 Heart Max Up<br>03 HP Max Up';}
+else if(x==12&&y==43){n=c+'04 Heart Max Up';}
+else if(x==2&&y==24){n=c+'05 Heart Max Up';}
+else if(x==28&&y==29){n=c+'06 Heart Max Up';}
+else if(x==39&&y==29){n=c+'07 Heart Max Up<br>08 HP Max Up';}
+else if(x==46&&y==36){n=c+'08 Heart Max Up';}
+else if(x==58&&y==26){n=c+'09 Heart Max Up';}
+else if(x==59&&y==24){n=c+'10 Heart Max Up';}
+else if(x==51&&y==18){n=c+'11 Heart Max Up';}
+else if(x==43&&y==16){n=c+'12 Heart Max Up';}
+else if(x==24&&y==14){n=c+'13 Heart Max Up';}
+else if(x==19&&y==23){n=c+'14 Heart Max Up';}
+else if(x==30&&y==1){n=c+'15 Heart Max Up<br>14 HP Max Up';}
+else if(x==45&&y==1){n=c+'16 Heart Max Up<br>15 HP Max Up';}
+else if(x==10&&y==43){n=c+'04 HP Max Up';}
+else if(x==1&&y==27){n=c+'05 HP Max Up';}
+else if(x==26&&y==25){n=c+'06 HP Max Up';}
+else if(x==32&&y==29){n=c+'07 HP Max Up';}
+else if(x==41&&y==33){n=c+'09 HP Max Up';}
+else if(x==48&&y==39){n=c+'10 HP Max Up';}
+else if(x==52&&y==23){n=c+'11 HP Max Up';}
+else if(x==43&&y==13){n=c+'12 HP Max Up';}
+else if(x==32&&y==14){n=c+'13 HP Max Up';}
 else{n=li;}
 r.innerHTML=n;
 }
