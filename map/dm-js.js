@@ -3,7 +3,7 @@ function getUrlVars(){return location.search.substring(1).split(',');}
 function LoadCoordinates(l,x,y){
 var r=document.getElementById('map');
 var href='<a href=?';
-var li='LEVEL ('+href+l+','+x+','+y+'>'+l+','+x+','+y+'</a>)<span style="float:right;">'+href+(l-1)+','+x+','+y+'>NORMAL MAP</a></span>';
+var li='LEVEL ('+href+l+','+x+','+y+'>'+l+','+x+','+y+'</a>)<span style="float:right;">'+href+'0,30,4>NORMAL MAP</a></span>';
 var lu=li+href+(l-1)+','+x+','+y+'><br><br>';
 var ld=li+href+(l+1)+','+x+','+y+'><br><br>';
 var su='. Stairs Up</a>';
@@ -15,13 +15,13 @@ document.getElementById('cel').style.top=((y-lvy)*14)+'px';
 document.getElementById('cel').style.left=((x-lvx)*14)+'px';
 
 if(l==0){
-li='LEVEL ('+href+l+','+x+','+y+'>'+l+','+x+','+y+'</a>)<span style="float:right;">'+href+(l+1)+','+x+','+y+'>INVERTED MAP</a></span>';
+li='LEVEL ('+href+l+','+x+','+y+'>'+l+','+x+','+y+'</a>)<span style="float:right;">'+href+'1,31,45>INVERTED MAP</a></span>';
 ld=li+href+(l+1)+','+x+','+y+'><br><br>';
 c=li+'<br><br>';
 var pp='<span id="champ"></span><br>';
 var pe=0;
 
-if(x==30&&y==4){n=ld+'<a href=?1,31,45>Inverted Castle</a>';}
+if(x==30&&y==4){n=ld+'<a href=?1,31,45>Teleport to Inverted Castle</a>';}
 else if(x==18&&y==32){n=c+'R01 Cube of Zoe: Causes pick-up items, such as Hearts, to drop from candles.';}
 else if(x==24&&y==27){n=c+'R02 Spitit Orb';}
 else if(x==58&&y==14){n=c+'R03 Faerie Scroll';}
@@ -49,7 +49,7 @@ var cp=document.getElementById('champ');
 if(cp!==null){cp.style.backgroundPosition='0px -'+pe+'px';}
 }
 if(l==1){
-if(x==31&&y==45){n=lu+'<a href=?0,30,4>Normal Castle</a>';}
+if(x==31&&y==45){n=lu+'<a href=?0,30,4>Teleport to Normal Castle</a>';}
 else if(x==22&&y==42){n=c+'R01 Ring of Vlad';}
 else if(x==5&&y==29){n=c+'R02 Tooth of Vlad';}
 else if(x==42&&y==36){n=c+'R03 Rib of Vlad';}
