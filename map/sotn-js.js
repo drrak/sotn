@@ -47,7 +47,8 @@ else if(x==48&&y==16){n=c+'09 Iron Shield (Shop)';}
 else if(x==13&&y==18){n=c+'10 Knight Shield';}
 else if(x==54&&y==9){n=c+'11 Shaman Shield';}
 else if(x==21&&y==33){n=c+'12 Herald Shield';}
-else if(x==12&&y==20){n=c+'13 Shield Rod<br>$1000';}
+else if(x==12&&y==20){n=c+'13 Shield Rod<br>01 $1000';}
+else if(x==11&&y==38){n=c+'02 $2000';}
 else if(x==18&&y==35){n=c+'01 Heart Max Up';}
 else if(x==16&&y==34){n=c+'02 Heart Max Up';}
 else if(x==10&&y==30){n=c+'03 Heart Max Up';}
@@ -77,6 +78,11 @@ else if(x==41&&y==38){n=c+'13 HP Max Up';}
 else if(x==29&&y==34){n=c+'14 HP Max Up';}
 else if(x==28&&y==33){n=c+'15 HP Max Up';}
 else if(x==24&&y==38){n=c+'16 HP Max Up';}
+else if(x==58&&y==13){n=c+'01 Warp Room: This warp room has the image of scorpion.';}
+else if(x==14&&y==34){n=c+'02 Warp Room: This warp room has the image of horse.';}
+else if(x==39&&y==8){n=c+'03 Warp Room: This warp room has the image of lion.';}
+else if(x==36&&y==17){n=c+'04 Warp Room: This warp room has the image of goat.';}
+else if(x==34&&y==40){n=c+'05 Warp Room: This warp room has the image of snake.';}
 else{n=li;}
 r.innerHTML=n;
 }
@@ -119,6 +125,13 @@ else if(x==48&&y==39){n=c+'10 HP Max Up';}
 else if(x==52&&y==23){n=c+'11 HP Max Up';}
 else if(x==43&&y==13){n=c+'12 HP Max Up';}
 else if(x==32&&y==14){n=c+'13 HP Max Up';}
+else if(x==49&&y==28){n=c+'01 $1000';}
+else if(x==50&&y==10){n=c+'02 $2000';}
+else if(x==3&&y==35){n=c+'01 Warp Room: This warp room has the image of scorpion.';}
+else if(x==47&&y==14){n=c+'02 Warp Room: This warp room has the image of horse.';}
+else if(x==22&&y==40){n=c+'03 Warp Room: This warp room has the image of lion.';}
+else if(x==25&&y==31){n=c+'04 Warp Room: This warp room has the image of goat.';}
+else if(x==27&&y==8){n=c+'05 Warp Room: This warp room has the image of snake.';}
 else{n=li;}
 r.innerHTML=n;
 }
