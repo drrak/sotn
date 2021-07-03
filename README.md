@@ -1,7 +1,7 @@
 # Castlevania Symphony of the Night
 All enemies & items table: https://drrak.github.io/sotn/
 
-All enemies & items table (Sega Saturn): https://drrak.github.io/sotn/enemylist_ss.htm
+All enemies & items table (Sega Saturn): https://drrak.github.io/sotn/ss/
 
 Drop Calculator: https://fatalis.pw/sotn/dropcalc/
 
