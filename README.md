@@ -10,4 +10,4 @@ Drop Calculator: https://fatalis.pw/sotn/dropcalc/
 Akumajou Dracula X Gekka no Yasoukyoku  
 悪魔城ドラキュラX 月下の夜想曲
 ---
-Translating Dracula X / SOTN: https://segaxtreme.net/threads/translating-dracula-x-sotn-beta-v1-02.24647/
+Translating Dracula X: https://segaxtreme.net/threads/translating-dracula-x-sotn-beta-v1-02.24647/
