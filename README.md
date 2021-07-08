@@ -3,7 +3,7 @@ All enemies & drop items table: https://drrak.github.io/sotn/
 Enemy List with all drop items: https://youtu.be/H3CVpDJ8td0
 
 All enemies & drop items table (Sega Saturn): https://drrak.github.io/sotn/ss/  
-Enemy List with all drop items (Sega Saturn, JAP): https://youtu.be/sNycEXESgOk
+Enemy List with all drop items (Sega Saturn, Japan): https://youtu.be/sNycEXESgOk
 
 Drop Calculator: https://fatalis.pw/sotn/dropcalc/
 
