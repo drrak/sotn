@@ -13,5 +13,3 @@ Akumajou Dracula X: Gekka no Yasoukyoku
 悪魔城ドラキュラX 月下の夜想曲
 ---
 Translating Dracula X: https://segaxtreme.net/threads/translating-dracula-x-sotn-beta-v1-02.24647/
-
-Castlevania SOTN Sega Saturn Translation: https://youtu.be/XsSkCSUqqDA
