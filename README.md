@@ -7,7 +7,7 @@ Enemy List with all drop items (Sega Saturn, Japan): https://youtu.be/sNycEXESgO
 
 Drop Calculator: https://fatalis.pw/sotn/dropcalc/
 
-3dh interactive map v0.20: https://drrak.github.io/sotn/map/?0,1,36
+Interactive map v0.20: https://drrak.github.io/sotn/map/?0,1,36
 
 Akumajou Dracula X: Gekka no Yasoukyoku  
 悪魔城ドラキュラX 月下の夜想曲
