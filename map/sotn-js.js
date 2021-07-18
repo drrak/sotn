@@ -61,7 +61,7 @@ else if(x==38&&y==2){n=c+'10 Heart Max Up';}
 else if(x==34&&y==4){n=c+'11 Heart Max Up';}
 else if(x==25&&y==20){n=c+'12 Heart Max Up';}
 else if(x==20&&y==15){n=c+'13 Heart Max Up';}
-else if(x==28&&y==33){n=c+'14 Heart Max Up';}
+else if(x==28&&y==33){n=c+'14 Heart Max Up<br>15 HP Max Up';}
 else if(x==31&&y==47){n=c+'15 Heart Max Up<br>17 HP Max Up';}
 else if(x==25&&y==46){n=c+'16 Heart Max Up';}
 else if(x==2&&y==34){n=c+'01 HP Max Up';}
@@ -76,8 +76,8 @@ else if(x==13&&y==9){n=c+'11 HP Max Up';}
 else if(x==36&&y==28){n=c+'12 HP Max Up';}
 else if(x==41&&y==38){n=c+'13 HP Max Up';}
 else if(x==29&&y==34){n=c+'14 HP Max Up';}
-else if(x==28&&y==33){n=c+'15 HP Max Up';}
 else if(x==24&&y==38){n=c+'16 HP Max Up';}
+else if(x==48&&y==17){n=c+'18 HP Max Up';}
 else if(x==58&&y==13){n=c+'01 Warp Room: This warp room has the image of scorpion.';}
 else if(x==14&&y==34){n=c+'02 Warp Room: This warp room has the image of horse.';}
 else if(x==39&&y==8){n=c+'03 Warp Room: This warp room has the image of lion.';}
