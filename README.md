@@ -9,6 +9,8 @@ Drop Calculator: https://fatalis.pw/sotn/dropcalc/
 
 Interactive map v0.20: https://drrak.github.io/sotn/map/?0,1,36
 
+Manual PDF: http://www.thealmightyguru.com/Wiki/images/0/08/Castlevania_-_Symphony_of_the_Night_-_PS1_-_Manual.pdf
+
 Akumajou Dracula X: Gekka no Yasoukyoku  
 悪魔城ドラキュラX 月下の夜想曲
 ---
